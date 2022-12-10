@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning Full stack web development (MERN STACK)
 ### Skills
 - JavaScript | C 
-- HTML | CSS | ReactJS | Redux | Bootstarp
+- HTML | CSS | ReactJS | Redux | Bootstrap
 - NodeJS | ExpressJS
-- Mongoose
 - MongoDB
 ### Connect with me
 -  Email - prakashramasamy1996@gmail.com
